@@ -1,36 +1,18 @@
-# LinuxRespin
-Fork of remastersys - updates
+# WickedRespin
+Fork of remastersys - and a Fsck YOU to ch1x0r for being a bitch
 
 This tool is used to backup your image, create distributions, create live cd/dvds.
 install respin
 
-If you are using Ubuntu - Consider switching to Debian.
-This is NOT for Ubuntu.
-Debian.
-In the past, Ubuntu packages, dependency information and such was available. Thanks to a few choice words by some Ubuntu users, that changed on July 25, 2017!
-Thank you.
+This IS for Ubuntu.
 
-u·bun·tu
-ˌo͝oˈbo͝on(t)o͞o/
-noun
-Definition: I cannot configure Debian.
+(Deleted negative comments from previous developer. Bitch, you do this again... *** I swear on the hatchet some Juggalos are gonna Hurt you badly, bitch! *** )
 
-Sentence use: I do not care about community - I use Ubuntu! 
+I'm working on this please stay tuned...
 
-booya - more like boooooooo yea
+But this is for you, ch1x0r: https://www.youtube.com/watch?v=FTJtOXgW254
 
-See also: Ughbuntu or Uhbuntu
-
-There is a gui available. I will post this soon. 
-Using the gui, you can change the boot screen. 
-
-Remember, if you are creating a distro for public use, to use your own trademarked icons for the menu, etc. 
-You can change these easily by researching the process for your particular base. 
-You can change the plymouth theme also.
-
-Maintaining a distro is important. 
-Remember to build a community around your distro if that is what you want.
-Customizing and creating distro can be fun and challenging. Also, this is a great way to learn more about distros and GNU Linux!
+Don't hate people because of their choice of distro.
 
 
 
