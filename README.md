@@ -1,5 +1,5 @@
 # WickedRespin
-Fork of remastersys - and a Fsck YOU to ch1x0r for being a bitch
+Yet another fork of remastersys
 
 This tool is used to backup your image, create distributions, create live cd/dvds.
 install respin
